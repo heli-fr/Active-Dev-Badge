@@ -15,7 +15,7 @@ pip install discord.py
 ```
 
 <div align="center">
-    <img src="blob:https://snipboard.io/4bfb6aad-f91d-4f47-8aae-5c38ccd36ee9" alt="uvu" width="400">
+    <img src="blob:https://snipboard.io/4bfb6aad-f91d-4f47-8aae-5c38ccd36ee9" alt="Pip Install Img" width="400">
     <br>
     <br>
 </div>
