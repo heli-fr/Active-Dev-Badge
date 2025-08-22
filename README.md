@@ -10,4 +10,6 @@
 
 To install discord.py kindly run the following command in your terminal / command prompt:
 
-```pip install discord.py```
+```
+pip install discord.py
+```
